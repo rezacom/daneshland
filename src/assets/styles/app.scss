@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-slate-800 text-slate-200;
+  background: rgb(30 41 59) !important;
+  direction: rtl;
+  font-family: Vazirmatn, sans-serif;
+
+}
+
+* {
+  font-family: Vazirmatn, sans-serif;
+
+}
+
+.button {
+  height: 50px;
+  padding: 10px;
+  background: rgb(20 184 166 / var(--tw-text-opacity));
+  border-radius: 10px;
+  min-width: 150px;
+}
