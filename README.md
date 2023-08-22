@@ -11,13 +11,33 @@ This is a simple blog app built with React, Redux, React Router and Vite.
 - Search article based on category and tags
 - User profile update
 - User liked articles list
+- login page
+- sign up page
+- forget password page
+- forget password code page
+
+## pachages
+
+- Vite
+- React router
+- Material ul
+- Material ul chart
+- React redux
+- Redux toolkit
+- Styled components
+- Redux persist
+- React hot toast
+- Eslint 
+- React hook form
+- Bootstrap
+- Vazirmatn font style
 
 ## Installation
 
 Clone the repo
 
 ```sh
-git clone git@github.com:mostafizurhimself/react-blog.git
+git clone git@github.com:rezacom/react-blog.git
 ```
 
 Go to the project directory
