@@ -16,7 +16,7 @@ This is a simple blog app built with React, Redux, React Router and Vite.
 - forget password page
 - forget password code page
 
-## pachages
+## packages
 
 - Vite
 - React router
