@@ -27,6 +27,7 @@ This is a simple blog app built with React, Redux, React Router and Vite.
 - Styled components
 - Redux persist
 - React hot toast
+- Tailwindcss
 - Eslint 
 - React hook form
 - Bootstrap
