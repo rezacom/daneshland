@@ -9,7 +9,7 @@ import * as S from "./styles";
 
 const ArticlesPage = () => {
   const posts = useAppSelector(getBlogPosts);
-  const [searchValue, setSearchValue] = useState<string>('');
+  const [searchValue] = useState<string>('');
 
   const debouncedSearchValue = useDebounce(searchValue, 300);
 

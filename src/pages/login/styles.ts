@@ -39,3 +39,8 @@ export const Links = styled.div`
   align-items: center;
   justify-content: space-between;
 `;
+
+export const Message = styled.p`
+  margin-top: 5px;
+  color: #EF5350;
+`;
